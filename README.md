@@ -114,19 +114,6 @@ The application will automatically open in your default web browser at `http://l
    - View predicted class and probabilities
    - See visual probability distribution
 
-## 📁 Project Structure
-
-```
-heart_disease_model/
-├── app.py                      # Main Streamlit application
-├── data_preprocessing.py       # Data loading and preprocessing module
-├── eda.py                      # Exploratory Data Analysis module
-├── ml_models.py                # Machine Learning models module
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-├── heart_disease.csv           # Dataset file
-└── PROJECT_OUTLINE.md          # Detailed project outline
-```
 
 ## 🔧 Module Descriptions
 
