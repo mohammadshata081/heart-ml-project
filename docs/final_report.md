@@ -2,8 +2,8 @@
 
 **Project Title:** Heart Disease Prediction Using Machine Learning  
 **Date:** November 2025  
-**Author:** [Your Name]  
-**Institution:** [Your Institution]
+**Author:**   
+**Institution:** 
 
 ---
 
